@@ -67,7 +67,7 @@ const Index = () => {
   if (isLoggedIn) {
     return (
       <Box>
-        <Heading>Bienvenido a la aplicación de streaming</Heading>
+        <Heading>Bienvenido a movieplay10</Heading>
         {/* Aquí puedes agregar el contenido de la aplicación de streaming */}
       </Box>
     );
